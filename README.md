@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @RAVI1430AI
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RAVI1430AI/RAVI1430AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
+👋 Hi, I'm Ravi Kasaudhan! 
+I'm passionate about problem-solving through Data Structures and Algorithms (DSA).
+I'm also a Full Stack Web Developer. 
+Let's discuss coding challenges and collaborate on exciting projects. 
+Feel free to reach out at ravikasaudhan01@gmail.com! 🚀
