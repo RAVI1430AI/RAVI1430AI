@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms Concept**
 
-- 👨‍💻 All of my projects are available at [ravikasaudhan.live](ravikasaudhan.live)
+- 👨‍💻 All of my projects are available at [https://t.ly/tp8-7](https://t.ly/tp8-7)
 
 - 📫 How to reach me **ravikasaudhan01@gmail.com**
 
